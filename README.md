@@ -30,4 +30,5 @@
 
 Ensure Python 3 is installed on your system:
 ```bash
+python --version
 
